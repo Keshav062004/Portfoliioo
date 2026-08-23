@@ -988,7 +988,7 @@ onUnmounted(() => mobileSectionObserver?.disconnect());
       min-width: 68px;
       max-width: 80px;
       flex-basis: 68px;
-      padding-inline: 6px;
+      padding-inline: 8px;
       font-size: 9px;
     }
 

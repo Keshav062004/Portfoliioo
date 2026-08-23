@@ -984,12 +984,12 @@ onUnmounted(() => mobileSectionObserver?.disconnect());
     }
 
     .header-resume-button {
-      width: 68px;
-      min-width: 68px;
-      max-width: 68px;
-      flex-basis: 68px;
-      padding-inline: 6px;
-      font-size: 9px;
+      width: 82px;
+      min-width: 82px;
+      max-width: 82px;
+      flex-basis: 82px;
+      padding-inline: 8px;
+      font-size: 10px;
     }
 
     .header-sounds-toggle :deep(button) {

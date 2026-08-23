@@ -984,7 +984,7 @@ onUnmounted(() => mobileSectionObserver?.disconnect());
     }
 
     .header-resume-button {
-      width: 68px;
+      width: 80px;
       min-width: 68px;
       max-width: 68px;
       flex-basis: 68px;

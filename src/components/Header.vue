@@ -978,8 +978,8 @@ onUnmounted(() => mobileSectionObserver?.disconnect());
   @media (max-width: 390px) {
     .header {
       grid-template-columns: 42px minmax(0, 1fr) minmax(0, auto);
-      padding-left: 100px;
-      padding-right: 100px;
+      padding-left: 20px;
+      padding-right: 20px;
       gap: 4px;
     }
 

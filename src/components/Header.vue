@@ -984,11 +984,11 @@ onUnmounted(() => mobileSectionObserver?.disconnect());
     }
 
     .header-resume-button {
-      width: 80px;
+      width: 68px;
       min-width: 68px;
-      max-width: 80px;
+      max-width: 68px;
       flex-basis: 68px;
-      padding-inline: 8px;
+      padding-inline: 6px;
       font-size: 9px;
     }
 
